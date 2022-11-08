@@ -1,7 +1,7 @@
 name = Glitchwave's Top 99 Mega Drive/Genesis Games
 author = PeaceSim
 url = https://github.com/PeaceSim/GW-MD-99/raw/main/Glitchwave%20Mega%20Drive%2099.sync
-updated = 2022-10-25
+updated = 2022-11-08
 
 [01. Sonic 3 & Knuckles]
 system = Genesis
@@ -49,16 +49,16 @@ system = Genesis
 match = Shinobi III - Return of the Ninja Master (USA)
 match = Shinobi III - Return of the Ninja Master
 
-[10. Street Fighter II' - Champion Edition]
-system = Genesis
-match = Street Fighter II' - Special Champion Edition (USA)
-match = Street Fighter II' - Special Champion Edition
-
-[11. Phantasy Star IV - The End of the Millennium]
+[10. Phantasy Star IV - The End of the Millennium]
 system = Genesis
 match = Phantasy Star IV - The End of the Millennium (USA)
 match = Phantasy Star IV - The End of the Millennium
 match = Phantasy Star IV
+
+[11. Street Fighter II' - Champion Edition]
+system = Genesis
+match = Street Fighter II' - Special Champion Edition (USA)
+match = Street Fighter II' - Special Champion Edition
 
 [12. Streets of Rage 3]
 system = Genesis
@@ -101,215 +101,215 @@ system = Genesis
 match = Ristar (USA)
 match = Ristar
 
-[20. Castlevania Bloodlines]
-system = Genesis
-match = Castlevania Bloodlines (USA)
-match = Castlevania Bloodlines
-
-[21. Sonic the Hedgehog]
+[20. Sonic the Hedgehog]
 system = Genesis
 match = Sonic the Hedgehog (USA)
 match = Sonic the Hedgehog
 
-[22. Thunder Force IV]
+[21. Castlevania Bloodlines]
 system = Genesis
-match = Thunder Force IV (USA)
-match = Thunder Force IV
+match = Castlevania Bloodlines (USA)
+match = Castlevania Bloodlines
 
-[23. Ultimate Mortal Kombat 3]
-system = Genesis
-match = Ultimate Mortal Kombat 3 (USA)
-match = Ultimate Mortal Kombat 3
-
-[24. Earthworm Jim]
-system = Genesis
-match = Earthworm Jim (USA)
-match = Earthworm Jim
-
-[25. Flashback]
+[22. Flashback]
 system = Genesis
 match = Flashback (USA)
 match = Flashback
 
-[26. ToeJam & Earl]
+[23. NHL '94]
 system = Genesis
-match = ToeJam & Earl (USA)
-match = ToeJam & Earl
+match = NHL '94 (USA, Europe)
+match = NHL '94
 
-[27. Disney's Aladdin]
-system = Genesis
-match = Aladdin (USA)
-match = Aladdin
-
-[28. Wonder Boy in Monster World]
+[24. Wonder Boy in Monster World]
 system = Genesis
 match = Wonder Boy in Monster World (USA)
 match = Wonder Boy in Monster World
 
-[29. Teenage Mutant Ninja Turtles - The Hyperstone Heist]
+[25. Ultimate Mortal Kombat 3]
+system = Genesis
+math = Ultimate Mortal Kombat 3 (USA)
+match = Ultimate Mortal Kombat 3
+
+[26. Earthworm Jim]
+system = Genesis
+match = Earthworm Jim (USA)
+match = Earthworm Jim
+
+[27. Thunder Force IV]
+system = Genesis
+match = Thunder Force IV (USA)
+match = Thunder Force IV
+
+[28. ToeJam & Earl]
+system = Genesis
+match = ToeJam & Earl (USA)
+match = ToeJam & Earl
+
+[29. Disney's Aladdin]
+system = Genesis
+match = Aladdin (USA)
+match = Aladdin
+
+[30. Teenage Mutant Ninja Turtles - The Hyperstone Heist]
 system = Genesis
 match = Teenage Mutant Ninja Turtles - The Hyperstone Heist (USA)
 match = Teenage Mutant Ninja Turtles - The Hyperstone Heist
-
-[30. NHL '94]
-system = Genesis
-match = NHL '94 (USA, Europe)
-match = NHL '94
 
 [31. Another World]
 system = Genesis
 match = Out of This World (USA)
 match = Out of This World
 
-[32. Beyond Oasis]
-system = Genesis
-match = Beyond Oasis (USA)
-match = Beyond Oasis
-
-[33. Mortal Kombat II]
-system = Genesis
-match = Mortal Kombat II (USA)
-match = Mortal Kombat II
-
-[34. Castle of Illusion Starring Mickey Mouse]
+[32. Castle of Illusion Starring Mickey Mouse]
 system = Genesis
 match = Castle of Illusion Starring Mickey Mouse (USA)
 match = Castle of Illusion Starring Mickey Mouse
 
-[35. Super Street Fighter II]
-system = Genesis
-match = Super Street Fighter II (USA)
-match = Super Street Fighter II
-
-[36. Bonanza Bros.]
-system = Genesis
-match = Bonanza Bros. (USA, Europe, Korea) (En) (Rev B)
-match = Bonanza Bros.
-
-[37. Dr. Robotnik's Mean Bean Machine]
-system = Genesis
-match = Dr. Robotnik's Mean Bean Machine (USA)
-match = Dr. Robotnik's Mean Bean Machine
-
-[38. Crusader of Centy]
-system = Genesis
-match = Crusader of Centy (USA)
-match = Crusader of Centy
-
-[39. Road Rash II]
-system = Genesis
-match = Road Rash II (USA)
-match = Road Rash II
-
-[40. Dune - The Battle for Arrakis]
-system = Genesis
-match = Dune - The Battle for Arrakis (USA)
-match = Dune - The Battle for Arrakis
-
-[41. NBA Jam - Tournament Edition]
+[33. NBA Jam - Tournament Edition]
 system = Genesis
 match = NBA Jam - Tournament Edition (USA)
 match = NBA Jam - Tournament Edition
 
-[42. NBA Jam]
+[34. Beyond Oasis]
 system = Genesis
-match = NBA Jam (USA)
-match = NBA Jam
+match = Beyond Oasis (USA)
+match = Beyond Oasis
 
-[43. Comix Zone]
+[35. Mortal Kombat II]
 system = Genesis
-match = Comix Zone (USA)
-match = Comix Zone
+match = Mortal Kombat II (USA)
+match = Mortal Kombat II
 
-[44. Golden Axe]
+[36. Super Street Fighter II]
 system = Genesis
-match = Golden Axe (USA)
-match = Golden Axe
+match = Super Street Fighter II (USA)
+match = Super Street Fighter II
 
-[45. Ghouls 'n Ghosts]
+[37. Crusader of Centy]
 system = Genesis
-match = Ghouls 'n Ghosts (USA)
-match = Ghouls 'n Ghosts
+match = Crusader of Centy (USA)
+match = Crusader of Centy
 
-[46. The Lost Vikings]
+[38. Dr. Robotnik's Mean Bean Machine]
+system = Genesis
+match = Dr. Robotnik's Mean Bean Machine (USA)
+match = Dr. Robotnik's Mean Bean Machine
+
+[39. Bonanza Bros.]
+system = Genesis
+match = Bonanza Bros. (USA, Europe, Korea) (En) (Rev B)
+match = Bonanza Bros.
+
+[40. Road Rash II]
+system = Genesis
+match = Road Rash II (USA)
+match = Road Rash II
+
+[41. Dune - The Battle for Arrakis]
+system = Genesis
+match = Dune - The Battle for Arrakis (USA)
+match = Dune - The Battle for Arrakis
+
+[42. The Lost Vikings]
 system = Genesis
 match = Lost Vikings, The (USA)
 match = Lost Vikings, The
 
-[47. Rock n' Roll Racing]
+[43. NBA Jam]
+system = Genesis
+match = NBA Jam (USA)
+match = NBA Jam
+
+[44. Comix Zone]
+system = Genesis
+match = Comix Zone (USA)
+match = Comix Zone
+
+[45. Golden Axe]
+system = Genesis
+match = Golden Axe (USA)
+match = Golden Axe
+
+[46. Rock n' Roll Racing]
 system = Genesis
 match = Rock n' Roll Racing (USA)
 match = Rock n' Roll Racing (USA)
 
-[48. Ms. Pac-Man]
+[47. Ms. Pac-Man]
 system = Genesis
 match = Ms. Pac-Man (USA)
 match = Ms. Pac-Man
 
-[49. Knuckles the Echidna in Sonic the Hedgehog 2]
+[48. Battle Mania Daiginjou]
+system = Genesis
+match = Battle Mania Daiginjou - Daiginjou Version (J) T+Eng MIJET
+match = Battle Mania Daiginjou
+
+[49. Ghouls 'n Ghosts]
+system = Genesis
+match = Ghouls 'n Ghosts (USA)
+match = Ghouls 'n Ghosts
+
+[50. Knuckles the Echidna in Sonic the Hedgehog 2]
 system = Genesis
 match = Sonic & Knuckles + Sonic The Hedgehog 2 (World) (Rev A) EverDrive Fixed v1.1 SmokeMonster
 match = Sonic & Knuckles + Sonic The Hedgehog 2
 
-[50. ToeJam & Earl in Panic on Funkotron]
+[51. ToeJam & Earl in Panic on Funkotron]
 system = Genesis
 match = ToeJam & Earl in Panic on Funkotron (USA)
 match = ToeJam & Earl in Panic on Funkotron
 
-[51. OutRun]
+[52. OutRun]
 system = Genesis
 match = OutRun (USA)
 match = OutRun
-
-[52. Sunset Riders]
-system = Genesis
-match = Sunset Riders (USA)
-match = Sunset Riders
 
 [53. Phantasy Star II]
 system = Genesis
 match = Phantasy Star II (USA)
 match = Phantasy Star II
 
-[54. Earthworm Jim 2]
+[54. Sunset Riders]
+system = Genesis
+match = Sunset Riders (USA)
+match = Sunset Riders
+
+[55. Earthworm Jim 2]
 system = Genesis
 match = Earthworm Jim 2 (USA)
 match = Earthworm Jim 2
 
-[55. Sparkster]
+[56. Sparkster]
 system = Genesis
 match = Sparkster (USA)
 match = Sparkster
 
-[56. Strider]
+[57. Strider]
 system = Genesis
 match = Strider (USA)
 match = Strider
 
-[57. Road Rash]
+[58. Road Rash]
 system = Genesis
 match = Road Rash (USA)
 match = Road Rash
 
-[58. Battle Mania Daiginjou]
+[59. Mortal Kombat]
 system = Genesis
-match = Battle Mania Daiginjou - Daiginjou Version (J) T+Eng MIJET
-match = Battle Mania Daiginjou
-
-[59. Truxton]
-system = Genesis
-match = Truxton (USA)
-match = Truxton
+match = Mortal Kombat (USA)
+match = Mortal Kombat
 
 [60. Mega Bomberman]
 system = Genesis
 match = Mega Bomberman (USA)
 match = Mega Bomberman
 
-[61. Mortal Kombat]
+[61. Truxton]
 system = Genesis
-match = Mortal Kombat (USA)
-match = Mortal Kombat
+match = Truxton (USA)
+match = Truxton
 
 [62. Thunder Force III]
 system = Genesis
@@ -321,16 +321,15 @@ system = Genesis
 match = Alien Soldier NTSC+Region-Free+60Hz Audio
 match = Alien Soldier
 
-[64. Monster World IV]
-system = Genesis
-match = Monster World IV (J) T+Eng 20080106 DeJap, Demiforce fix v2.2, Michele Di Somma 2008
-match = Monster World IV (J) T+Eng
-match = Monster World IV
-
-[6. Zombies Ate My Neighbors]
+[64. Zombies Ate My Neighbors]
 system = Genesis
 match = Zombies Ate My Neighbors (USA)
 match = Zombies Ate My Neighbors
+
+[65. Alisia Dragoon]
+system = Genesis
+match = Alisia Dragoon (USA)
+match = Alisia Dragoon
 
 [66. Gley Lancer]
 system = Genesis
@@ -343,167 +342,168 @@ system = Genesis
 match = Flicky (USA)
 match = Flicky
 
-[68. Golden Axe II]
-system = Genesis
-match = Golden Axe II (USA)
-match = Golden Axe II
-
-[69. Quackshot Starring Donald Duck]
+[68. Quackshot Starring Donald Duck]
 system = Genesis
 match = Quackshot Starring Donald Duck (USA)
 match = Quackshot Starring Donald Duck
 match = Quackshot
 
-[70. Alisia Dragoon]
+[69. Golden Axe II]
 system = Genesis
-match = Alisia Dragoon (USA)
-match = Alisia Dragoon
+match = Golden Axe II (USA)
+match = Golden Axe II
 
-[71. Shadow Dancer - The Secret of Shinobi]
+[70. X-Men 2 - Clone Wars]
+system = Genesis
+match = X-Men 2 - Clone Wars (USA)
+match = X-Men 2 - Clone Wars
+
+[71. Ghostbusters]
+system = Genesis
+match = Ghostbusters (USA)
+match = Ghostbusters
+
+[72. Splatterhouse 2]
+system = Genesis
+match = Splatterhouse 2 (USA)
+match = Splatterhouse 2
+
+[73. Shadow Dancer - The Secret of Shinobi]
 system = Genesis
 match = Shadow Dancer - The Secret of Shinobi (USA)
 match = Shadow Dancer - The Secret of Shinobi
 match = Shadow Dancer
 
-[72. Ghostbusters]
-system = Genesis
-match = Ghostbusters (USA)
-match = Ghostbusters
-
-[73. X-Men 2 - Clone Wars]
-system = Genesis
-match = X-Men 2 - Clone Wars (USA)
-match = X-Men 2 - Clone Wars
-
-[74. Ranger-X]
-system = Genesis
-match = Ranger-X (USA)
-match = Ranger-X
-
-[75. Ecco the Dolphin]
+[74. Ecco the Dolphin]
 system = Genesis
 match = Ecco the Dolphin (USA)
 match = Ecco the Dolphin
+
+[75. Monster World IV]
+system = Genesis
+match = Monster World IV (J) T+Eng 20080106 DeJap, Demiforce fix v2.2, Michele Di Somma 2008
+match = Monster World IV (J) T+Eng
+match = Monster World IV
 
 [76. Golden Axe III]
 system = Genesis
 match = Golden Axe III (USA)
 match = Golden Axe III
 
-[77. Battletoads & Double Dragon]
-system = Genesis
-match = Battletoads & Double Dragon (USA)
-match = Battletoads & Double Dragon
-
-[78. World of Illusion Starring Mickey Mouse and Donald Duck]
+[77. World of Illusion Starring Mickey Mouse and Donald Duck]
 system = Genesis
 match = World of Illusion Starring Mickey Mouse and Donald Duck (USA)
 match = World of Illusion Starring Mickey Mouse and Donald Duck
 match = World of Illusion
 
-[79. Vectorman]
+[78. Vectorman]
 system = Genesis
 match = Vectorman (USA)
 match = Vectorman
 
-[80. Columns]
+[79. Battletoads & Double Dragon]
 system = Genesis
-match = Columns (USA)
-match = Columns
+match = Battletoads & Double Dragon (USA)
+match = Battletoads & Double Dragon
 
-[81. Kid Chameleon]
+[80. Ranger-X]
 system = Genesis
-match = Kid Chameleon (USA)
-match = Kid Chameleon
+match = Ranger-X (USA)
+match = Ranger-X
 
-[82. Battletoads]
+[81. Battletoads]
 system = Genesis
 match = Battletoads (USA)
 match = Battletoads
 
-[83. Herzog Zwei]
-system = Genesis
-match = Herzog Zwei (USA)
-match = Herzog Zwei
-
-[84. Panorama Cotton]
+[82. Panorama Cotton]
 system = Genesis
 match = Panorama Cotton (J) T+Eng v1.0.1 Malias
 match = Panorama Cotton (J) T+Eng
 match = Panorama Cotton
 
-[85. Splatterhouse 2]
+[83. Columns]
 system = Genesis
-match = Splatterhouse 2 (USA)
-match = Splatterhouse 2
+match = Columns (USA)
+match = Columns
 
-[86. Mortal Kombat 3]
+[84. Herzog Zwei]
+system = Genesis
+match = Herzog Zwei (USA)
+match = Herzog Zwei
+
+[85. Mortal Kombat 3]
 system = Genesis
 match = Mortal Kombat 3 (USA)
 match = Mortal Kombat 3
+
+[86. Kid Chameleon]
+system = Genesis
+match = Kid Chameleon (USA)
+match = Kid Chameleon
 
 [87. McDonald's Treasure Land Adventure]
 system = Genesis
 match = McDonald's Treasure Land Adventure (USA)
 match = McDonald's Treasure Land Adventure
 
-[88. Shining in the Darkness]
-system = Genesis
-match = Shining in the Darkness (USA)
-match = Shining in the Darkness
-
-[89. Tiny Toon Adventures - Buster's Hidden Treasure]
+[88. Tiny Toon Adventures - Buster's Hidden Treasure]
 system = Genesis
 match = Tiny Toon Adventures - Buster's Hidden Treasure (USA)
 match = Tiny Toon Adventures - Buster's Hidden Treasure
 match = Tiny Toon Adventures
 
-[90. Cool Spot]
+[89. Cool Spot]
 system = Genesis
 match = Cool Spot (USA)
 match = Cool Spot
 
-[91. Hellfire]
+[90. Shining in the Darkness]
 system = Genesis
-match = Hellfire (USA)
-match = Hellfire
+match = Shining in the Darkness (USA)
+match = Shining in the Darkness
 
-[92. Super Hang-On]
+[91. Super Hang-On]
 system = Genesis
 match = Super Hang-On (USA)
 match = Super Hang-On
 
-[93. Landstalker]
+[92. Hellfire]
 system = Genesis
-match = Landstalker (USA)
-match = Landstalker
+match = Hellfire (USA)
+match = Hellfire
+
+[93. Alien Storm]
+system = Genesis
+match = Alien Storm (USA)
+match = Alien Storm
 
 [94. Frogger]
 system = Genesis
 match = Frogger (USA)
 match = Frogger
 
-[95. Alien Storm]
-system = Genesis
-match = Alien Storm (USA)
-match = Alien Storm
-
-[96. Vectorman 2]
+[95. Vectorman 2]
 system = Genesis
 match = Vectorman 2 (USA)
 match = Vectorman 2
 
-[97. Decap Attack]
+[96. Decap Attack]
 system = Genesis
 match = Decap Attack (USA)
 match = Decap Attack
+
+[97. Landstalker]
+system = Genesis
+match = Landstalker (USA)
+match = Landstalker
 
 [98. Sonic 3D Blast]
 system = Genesis
 match = Sonic 3D Blast (USA)
 match = Sonic 3D Blast
 
-[99. Twinkle Tale]
+[99. Pirates! Gold]
 system = Genesis
-match = Twinkle Tale Enhanced+Retranslation
-match = Twinkle Tale
+match = Pirates! Gold (USA)
+match = Pirates! Gold
